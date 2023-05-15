@@ -1,0 +1,265 @@
+
+
+img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+
+.mogo-header{
+    background-color:white;
+    
+    
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: aliceblue;
+    box-shadow: rgba(8, 8, 9, 0.1) 0 5px 5px 5px;
+    
+}
+.logo{
+    width: 8%;
+    margin-left: 260px;
+    
+}
+.menu{
+    width: 80%;
+    font-size: 20px;
+    margin-right: 260px;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+.menu ul li{
+    
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 0 20px;
+} 
+
+.menu ul li a:hover{
+    color:red;
+}
+
+
+
+/* navbar end */
+
+
+.hero-section{
+    text-align: center;
+    padding: 40px 0 40px 0;
+
+}
+.container{}
+.business{}
+.business h1{
+    font-size: 70px;
+    width:60%;
+    margin-left: 300px;
+    color: #3b506c;
+}
+.business h1 span{
+    color: rgb(66, 198, 216);
+}
+.business p{
+    font-size: 25px;
+}
+.work-img img{
+    width:55%;
+    margin-left: 400px;
+   
+}
+/* hero section end */
+
+
+.success{
+    margin-left: 300px;
+    margin-right: 200px;
+}
+.container{
+    display: flex;
+}
+.midel-section{}
+.midel-section h1{
+    color: crimson;
+    margin-top:30px ;
+    font-size: 70px;
+    text-align: right;
+    
+
+    
+}
+.midel-section p{
+    font-size: 20px;
+    display: inline-block;
+    margin-top: -10px;
+    margin-left: 75px;
+    color: #3b506c;
+   
+}
+.midel-section p .brack{
+    margin-left: 150px;
+}
+
+.right-side h3{
+    width: 78%;
+   margin-left: 70px;
+    font-size: 55px;
+    color: #3b506c;
+    margin-top: 30px;
+
+    
+
+}
+
+/* Success section end*/
+
+.information-box{
+    padding: 60px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.catagory-box{
+    
+    
+  
+    
+}
+.box-1{
+    
+    background-color: pink;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    transition: 0.4s;
+    
+}
+.box-1 img{
+    width: 100%;
+    margin-top: 100px;
+    
+   
+
+}
+.box-1 h4{
+    font-size: 30px;
+    padding: 15px 15px 5px 30px;
+    color: #3b506c;
+    
+}    
+.box-1 p{
+    padding: 0 15px 5px 30px;
+    color: #3b506c;
+    font-size: 18px;
+}
+.box-1:hover{
+    background-color: antiquewhite;
+    tar
+}
+.box-2{
+    background-color: aquamarine;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    transition: 0.4s;
+
+}
+.box-2 img{
+    width: 100%;
+    margin-top: 70px;
+    
+}
+.box-2 h4{
+    font-size: 30px;
+    padding: 5px 15px 5px 30px;
+    color: #3b506c;;
+}
+.box-2 P{
+    padding: 5px 15px 5px 30px;
+    color:#3b506c; ;
+    font-size: 18px;
+}
+.box-2:hover{
+    background-color: rgb(116, 162, 218);
+}
+.box-3{
+    background-color: rgb(196, 205, 206);
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    transition: 0.4s;
+}
+.box-3 img{
+    width: 100%;
+    margin-top: 50px;
+    
+}
+.box-3 h4{
+    font-size: 30px;
+    padding: 0 15px 5px 30px;
+    color: #3b506c;;
+    
+}
+.box-3 p{
+    padding: 5px 15px 10px 30px;
+    color:#3b506c;
+    font-size: 18px;
+}
+.box-3:hover{
+    background-color: deeppink;
+}
+/*card section end*/
+
+
+.sosile-media{
+    background-color: rgb(238 238 238);
+}
+.container{
+    padding: 50px 0;
+}
+.adress{
+    justify-content: space-between;
+    margin: 0 90px 0 90px;
+    ba
+}
+.adress h2{
+    margin-left: 35px;
+    
+}
+.adress ul{
+    list-style: none;
+    font-size: 20px;
+    
+    
+    
+}
+.adress ul li{
+    padding: 10px;
+}
+.adress ul li a{
+    display:inline;
+    text-decoration: none;
+    
+    justify-content: space-between;
+    color: #3b506c;
+}
